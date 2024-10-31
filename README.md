@@ -24,10 +24,9 @@ Version: 2024-06 (4.32.0)
 
 ## Autores 
 
-**Murilo Ramos Terra Rodrigues** - *Trabalho Inicial* - Lista de Exercícios AC2 - INTERFACE
+**Murilo Ramos Terra Rodrigues** - *Trabalho Inicial* - Lista de Exercícios AC2 - MODELO TELA
 
 ## Imagem
 
-![INTERFACE](https://github.com/murilove69/INTERFACE/blob/master/Interface.png)
 
 

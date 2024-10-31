@@ -1,4 +1,5 @@
 import javax.swing.*;
+//Fui pesquisar saber e adicionei esta biblioteca também, pois ela contém componentes e funcionalidades para criar interfaces gráficas //(GUI) no Java
 import java.awt.*;
 
 public class AWTTestSwing {
